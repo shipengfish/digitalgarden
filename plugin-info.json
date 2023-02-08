@@ -30,6 +30,7 @@
             "src/site/_includes/components/notegrowthhistory.njk",
             "src/site/_includes/components/pageheader.njk",
             "src/site/_includes/components/linkPreview.njk",
+            "src/site/_includes/components/references.njk",
             "src/site/_includes/components/sidebar.njk",
             "src/site/_includes/components/graphScript.njk",
             "src/site/_includes/components/filetree.njk",
@@ -44,6 +45,7 @@
             "src/site/_data/versionednotes.js",
             "src/site/_data/meta.js",
             "src/site/_data/filetree.js",
+            "src/site/_data/dynamics.js",
             "src/site/img/outgoing.svg",
             "src/helpers/constants.js",
             "src/helpers/utils.js",
@@ -51,6 +53,8 @@
             "netlify/functions/search/search.js",
             "src/site/get-theme.js",
             "api/search.js",
-            "vercel.json"
+            "vercel.json",
+            "src/site/_data/eleventyComputed.js",
+            "src/site/graph.njk"
         ]
 }
