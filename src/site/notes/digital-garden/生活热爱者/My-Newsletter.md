@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/生活热爱者/My-Newsletter/"}
+{"dg-publish":true,"permalink":"/digital-garden/生活热爱者/My-Newsletter/","noteIcon":"2"}
 ---
 
 
